@@ -1,0 +1,18 @@
+.Card {
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.4);
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top;
+}
+
+.Card-header {
+  background: #80BD52;
+  background: linear-gradient(to bottom, rgb(128,189,81) 0%, rgb(102,168,49) 100%);
+  color: white;
+  padding: 5px 10px;
+}
+
+.Card-body {
+  background: #2d2d2d;
+  padding: 5px 10px;
+}
